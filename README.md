@@ -7,7 +7,7 @@ Esse projeto tem como objetivo praticar minhas habilidades em Power BI e anális
 
 ### Descrição
 
-Nesse case um empresa AA solicitou um detalhamento finaceiro completo sobre a empresa que gerasse um insight sobre as vendas dos produtos da empresa.
+Nesse case um empresa AA solicitou um detalhamento financeiro completo sobre a empresa que gerasse um insight sobre as vendas dos produtos da empresa.
 
 ### Dados
 
